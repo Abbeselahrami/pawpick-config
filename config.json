@@ -5,6 +5,7 @@
     "appOpenEnabled": true,
     "appOpenOnResume": true,
     "bannerEnabled": true,
+    "nativeEnabled": true,
     "mrecEnabled": true,
     "interstitialEnabled": true,
     "interstitialOnNext": true,
@@ -12,6 +13,7 @@
     "appOpenId": "ca-app-pub-3940256099942544/5575463023",
     "bannerId": "ca-app-pub-3940256099942544/2934735716",
     "mrecId": "ca-app-pub-3940256099942544/2934735716",
+    "nativeId": "ca-app-pub-3940256099942544/3986624511",
     "interstitialId": "ca-app-pub-3940256099942544/4411468910",
 
     "resultNextDelaySeconds": 5,
